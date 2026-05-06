@@ -151,6 +151,9 @@ public class SleepTrackerApp {
                 ? count + 1
                 : count;
 
+
+
+
         return countBadQuality(sessions, index + 1, newCount);
     }
 
